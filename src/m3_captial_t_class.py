@@ -279,7 +279,7 @@ class CapitalT(object):
         new.set_colors(self.h_rect.fill_color, self.v_rect.outline_color)
         return new
         # --------------------------------------------------------------
-        # TODO: 7.
+        # DONE: 7.
         #   READ the above specification, including the Example.
         #   Implement and test this method by uncommenting the appropriate
         #     run_test method in main. Compare the graphics window to
